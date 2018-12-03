@@ -3,4 +3,4 @@ Two in One examples - Win32 Programming using Modern Cmake build system. A proje
 # Getting Started
 
 ## Prerequisites to run the samples
-- Install a C++ compiler for Windows Platform (MSVC, Mingw64) optionally with IDE (Visual Studio, QT Creator, VS Code) and have a ball.
+- Install a C++ compiler for Windows Platform (MSVC, Mingw64) optionally with IDE (any Visual Studio 2017, QT Creator, VS Code) and have a ball.
