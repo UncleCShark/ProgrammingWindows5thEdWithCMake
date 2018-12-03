@@ -4,3 +4,5 @@ This project is Two in One example - create Win32 Programming examples using Mod
 
 ## Prerequisites to run the samples
 - Install a C++ compiler for Windows Platform (MSVC, Mingw64) optionally with IDE ( any Visual Studio 2017, QT Creator, VS Code will be OK ) and have a ball.
+
+- Be carefull when you compile examples for x64 platform - many of them work without problem but not MIDI example.
