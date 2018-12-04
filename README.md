@@ -9,4 +9,9 @@ This project is Two in One solution. It will learn you how to use Win32 API and 
 
 ## Notes
 The solution was built successfully with:
-- Visual Studio 2017 Community (version 15.9.3)  to built every example with both MSVC (version 19.16.27024.1) and Mingw64 ( version 8.1.0 ) toolset. 1. Open a cmake project try File->Open Project->Cmake; 2. Cmake->Build All
+- Visual Studio 2017 Community (version 15.9.3)  to built every example with both MSVC (version 19.16.27024.1) and Mingw64 ( version 8.1.0 ) toolset. To build:
+  1. Open a cmake project try File->Open Project->Cmake; 
+  2. Cmake->Build All
+- Qt Creator 4.7.2 1. To build:
+  1. Open File or Project
+  2. Build->Build All
