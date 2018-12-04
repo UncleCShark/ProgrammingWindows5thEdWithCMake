@@ -14,7 +14,7 @@ The solution was built successfully with:
   2. mkdir build
   3. cd build
   4. cmake -G Ninja ..
-  5 cmake --build .
+  5. cmake --build .
   
 - Visual Studio 2017 Community (version 15.9.3)  to built every example with both MSVC (version 19.16.27024.1) and Mingw64 ( version 8.1.0 ) toolset. To build:
   1. Open a cmake project try File->Open Project->Cmake; 
