@@ -9,6 +9,13 @@ This project is Two in One solution. It will learn you how to use Win32 API and 
 
 ## Notes
 The solution was built successfully with:
+- Command Prompt + Cmake + Ninja (remember to install Cmake and Ninja tools ). To build:
+  1. cd pathtoclonedrepository
+  2. mkdir build
+  3. cd build
+  4. cmake -G Ninja ..
+  5 cmake --build .
+  
 - Visual Studio 2017 Community (version 15.9.3)  to built every example with both MSVC (version 19.16.27024.1) and Mingw64 ( version 8.1.0 ) toolset. To build:
   1. Open a cmake project try File->Open Project->Cmake; 
   2. Cmake->Build All
