@@ -8,5 +8,5 @@ This project is Two in One solution. It will learn you how to use Win32 API and 
 - Don't be disappointed when you will try to compile examples for x64 platform, you can do it without any errors but keep in mind that source examples were destined for 16-bit and 32-bit Windows (they are twenty years old) - many of them work without problem but not MIDI example.
 
 ## Notes
-The solution was built successfully with
--Visual Studio 2017 Community (version 15.9.3)  to built every example with both MSVC (version 19.16.27024.1) and Mingw64 ( version 8.1.0 ) kits. To open a cmake project try File->Open Project->Cmake.
+The solution was built successfully with:
+- Visual Studio 2017 Community (version 15.9.3)  to built every example with both MSVC (version 19.16.27024.1) and Mingw64 ( version 8.1.0 ) toolset. 1. Open a cmake project try File->Open Project->Cmake; 2. Cmake->Build All
